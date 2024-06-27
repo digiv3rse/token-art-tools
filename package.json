@@ -1,0 +1,30 @@
+{
+    "name": "token-art-tools",
+    "version": "1.6.5",
+    "private": true,
+    "description": "Token Art Tools",
+    "author": "Owen Moore",
+    "keywords": [
+        "gatsby"
+    ],
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-range-step-input": "^1.3.0",
+        "semantic-ui-react": "^2.1.4",
+        "fomantic-ui-css": "^2.9.1"
+    },
+    "scripts": {
+        "deploy": "gatsby build --prefix-paths && gh-pages -d public -b deploy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/owmo-dev/token-art-tools"
+    },
+    "devDependencies": {
+        "eslint": "^8.32.0",
+        "eslint-plugin-react": "^7.32.1",
+        "gh-pages": "^4.0.0",
+        "gatsby": "^5.4.2"
+    }
+}
