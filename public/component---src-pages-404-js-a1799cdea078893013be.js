@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktoken_art_tools=self.webpackChunktoken_art_tools||[]).push([[125],{3331:function(e,t,l){l.r(t);var n=l(6540);t.default=()=>n.createElement("h1",null,"404")}}]);
+//# sourceMappingURL=component---src-pages-404-js-a1799cdea078893013be.js.map

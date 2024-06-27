@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-a1799cdea078893013be.js","mappings":"4IAMA,UAJiBA,IACNC,EAAAA,cAAA,UAAI,M","sources":["webpack://token-art-tools/./src/pages/404.js"],"sourcesContent":["import React from 'react';\n\nconst NotFound = () => {\n    return <h1>404</h1>;\n};\n\nexport default NotFound;\n"],"names":["NotFound","React"],"sourceRoot":""}
